@@ -1,0 +1,7 @@
+// // Bracket Notation
+// person['name']
+
+const colors = ['red', 'green', 'blue'];
+
+for (let color of colors)
+    console.log(color);
